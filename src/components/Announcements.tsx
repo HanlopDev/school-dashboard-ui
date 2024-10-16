@@ -1,4 +1,4 @@
-const Announcement = () => {
+const Announcements = () => {
   return (
     <div className='bg-white rounded-md p-4'>
         <div className="flex items-center justify-between">
@@ -44,4 +44,4 @@ const Announcement = () => {
   )
 }
 
-export default Announcement
+export default Announcements
